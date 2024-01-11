@@ -10,12 +10,17 @@ Portfolio Website
 ## Features
 
 Navigation: The website includes a navigation bar that allows users to easily navigate to different sections of the site.
-Home: The home section introduces Insha and provides a brief description of her internship at Growintern.
+
+Home: The home section introduces Insha and provides a brief description of her internship at Prodigy.
+
 About Me: This section provides information about Insha's role as a Front-end Developer.
+
 Services: In this section, Insha describes the services she offers, including Web Development, Graphic Designing, and Content Writing.
+
 Portfolio: The portfolio section showcases some of Insha's latest web design projects.
+
 Contact Me: Users can fill out a form to send messages or inquiries to Insha.
-Responsive Design: The website is designed to be responsive and can adapt to different screen sizes and devices.
+
 
 ## Usage
 
